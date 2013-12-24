@@ -1,0 +1,83 @@
+body {
+  background-color: black;
+  margin: 0;
+  color: #0B731E;
+  font-family: VTSR;
+  overflow: hidden;
+}
+
+@font-face {
+  font-family: VTSR;
+  src: url(../font/VTSR.TTF);
+}
+
+div {border: 1px solid #0B731E;}
+
+#randCoords {
+  width: 210px;
+  height: 210px;
+  margin-left: 420px;
+  margin-top: 30px;
+  position: absolute;
+}
+
+#forEverGrid {
+  width: 210px;
+  height: 120px;
+  margin-left: 420px;
+  margin-top: 270px;
+  position: absolute;
+}
+
+#matrixChars {
+  width: 360px;
+  height: 270px;
+  margin-left: 30px;
+  margin-top: 180px;
+  position: absolute;
+}
+
+#matrix {width: 360px; height: 270px;}
+
+#randGraph {
+  width: 360px;
+  height: 120px;
+  margin-left: 30px;
+  margin-top: 30px;
+  position: absolute;
+}
+
+#sineWaver {
+  width: 210px;
+  height: 150px;
+  margin-left: 420px;
+  margin-top: 420px;
+  position: absolute;
+}
+
+#verbData {
+  width: 360px;
+  height: 90px;
+  margin-left: 30px;
+  margin-top: 480px;
+  position: absolute;
+}
+
+#verb {
+  position: absolute;
+  height: 90;
+  width: 180;
+  margin-top: 10px;
+  margin-left: 5px;
+  font-size: 50px;
+}
+
+#data {
+  position: absolute;
+  height: 90;
+  width: 180;
+  margin-top: 60px;
+  margin-left: 5px;
+  color: #FB731E;
+  font-size: 30px;
+}

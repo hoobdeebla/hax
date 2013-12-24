@@ -1,0 +1,18 @@
+{
+  "name": "hax",
+  "version": "0.0.0",
+  "description": "tools for l33t haxx0r2",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hoobdeebla/hax.git"
+  },
+  "author": "Adam Schay (https://github.com/hoobdeebla)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoobdeebla/hax/issues"
+  },
+  "homepage": "https://github.com/hoobdeebla/hax"
+}
